@@ -1,0 +1,15 @@
+D:\Projects\Codec test in C Sharp\bin\Debug\net6.0\Codec test in C Sharp.exe
+D:\Projects\Codec test in C Sharp\bin\Debug\net6.0\Codec test in C Sharp.deps.json
+D:\Projects\Codec test in C Sharp\bin\Debug\net6.0\Codec test in C Sharp.runtimeconfig.json
+D:\Projects\Codec test in C Sharp\bin\Debug\net6.0\Codec test in C Sharp.dll
+D:\Projects\Codec test in C Sharp\bin\Debug\net6.0\Codec test in C Sharp.pdb
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.csproj.AssemblyReference.cache
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.AssemblyInfoInputs.cache
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.AssemblyInfo.cs
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.csproj.CoreCompileInputs.cache
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.dll
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\refint\Codec test in C Sharp.dll
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.pdb
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\Codec test in C Sharp.genruntimeconfig.cache
+D:\Projects\Codec test in C Sharp\obj\Debug\net6.0\ref\Codec test in C Sharp.dll

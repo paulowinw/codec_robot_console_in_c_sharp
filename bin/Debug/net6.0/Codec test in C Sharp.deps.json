@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Codec test in C Sharp/1.0.0": {
+        "runtime": {
+          "Codec test in C Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codec test in C Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
